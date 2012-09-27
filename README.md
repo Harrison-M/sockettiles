@@ -10,6 +10,7 @@ Build client/bundle.js using [browserify](https://github.com/substack/node-brows
     browserify main.js -o bundle.js
 
 Run server/server.js
+
     node server.js
 
 Open client/index.html in a couple of windows.  Click tiles to light them up.  Lit tiles should be synced across windows in real-time.
