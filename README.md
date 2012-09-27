@@ -1,6 +1,8 @@
 # Sockettiles
 A demo application using substack's [tilemap](https://github.com/substack/tilemap "Tilemap") and [socket.io](http://socket.io "Socket.io").
 
+Portions of the client code borrowed from the [tilemap](https://github.com/substack/tilemap "Tilemap") example files.
+
 ## How to use
 
 Build client/bundle.js using [browserify](https://github.com/substack/node-browserify "Browserify") (if I've been good about keeping it updated, you can skip this)
