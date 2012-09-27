@@ -1,0 +1,10 @@
+{
+    "name": "sockettiles-client",
+    "description": "Server for tilemap + socket.io demo",
+    "version": "0.0.1",
+    "main": "./main.js",
+    "dependencies": {
+        "tilemap": "*",
+        "socket.io-browserify": "*"
+    }
+}
