@@ -6,6 +6,7 @@ Portions of the client code borrowed from the [tilemap](https://github.com/subst
 ## How to use
 
 Build client/bundle.js using [browserify](https://github.com/substack/node-browserify "Browserify") (if I've been good about keeping it updated, you can skip this)
+
     browserify main.js -o bundle.js
 
 Run server/server.js
